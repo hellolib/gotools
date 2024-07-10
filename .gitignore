@@ -24,3 +24,4 @@ go.work
 # my ignore
 .idea
 test
+.DS_Store
